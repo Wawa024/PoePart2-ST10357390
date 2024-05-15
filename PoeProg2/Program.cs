@@ -6,12 +6,8 @@
     using System.Linq;
 
 
-
-
     // Delegate to notify when a recipe exceeds 300 calories
     public delegate void RecipeCal(double x);
-
-
 
 
     // Ingredient Class
