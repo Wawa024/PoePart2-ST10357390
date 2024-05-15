@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\bin\Debug\net8.0\PoeProg2.exe
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\bin\Debug\net8.0\PoeProg2.deps.json
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\bin\Debug\net8.0\PoeProg2.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\bin\Debug\net8.0\PoeProg2.dll
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\bin\Debug\net8.0\PoeProg2.pdb
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.dll
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\refint\PoeProg2.dll
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.pdb
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\PoeProg2.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive\PoeProg2\PoeProg2\obj\Debug\net8.0\ref\PoeProg2.dll
