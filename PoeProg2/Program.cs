@@ -10,7 +10,7 @@
     public delegate void RecipeCal(double x);
 
 
-    // Ingredient Class
+    // Ingredient Class 
     public class Ingredient
 
     {
@@ -26,7 +26,6 @@
 
 
     // Step class
-
     public class Step
 
     {
@@ -65,14 +64,10 @@
             Steps = new List<Step>();
 
         }
-
-
-        // Calculates total calories and notifys if it exceeds 300
         
 
 
         // Scaling recipe by a factor
-
         public void ScaleRecipe(double factor)
 
         {
@@ -114,7 +109,6 @@
         }
 
         // Collection to store recipes
-
         private static List<Recipe> recipes = new List<Recipe>();
 
         //Predefined food groups
