@@ -117,7 +117,6 @@
 
 
         // add a new recipe
-
         public static void AddRecipe()
 
         {
@@ -130,7 +129,6 @@
 
 
             // Input ingredients
-
             Console.Write("Enter number of ingredients: ");
             int ingredientCount = int.Parse(Console.ReadLine());
             for (int i = 0; i < ingredientCount; i++)
@@ -163,7 +161,6 @@
 
 
             // Input steps
-
             Console.Write("Enter number of steps: ");
             int stepCount = int.Parse(Console.ReadLine());
             for (int i = 0; i < stepCount; i++)
@@ -187,7 +184,6 @@
 
 
         //display all recipes
-
         private static void DisplayRecipes()
 
         {
@@ -205,7 +201,6 @@
 
 
         //display recipe details
-
         public static void DisplayRecipeDetails(string recipeName)
 
         {
