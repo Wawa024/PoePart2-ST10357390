@@ -87,7 +87,6 @@
 
 
     // Main class
-
     public class Menu
     {
 
@@ -112,7 +111,7 @@
         private static List<Recipe> recipes = new List<Recipe>();
 
         //Predefined food groups
-        private static readonly string[] foodGroups = { "Grains", "Vegetables", "Fruits", "Proteins", "Dairy", "Fats and Oils", "Sweets", "Nuts", "Liquids" };
+        private static readonly string[] foodGroups = { "Grains", "Vegetables", "Fruits", "Proteins", "Dairy", "Fats & Oils", "Sweets", "Nuts", "Liquids" };
 
 
 
